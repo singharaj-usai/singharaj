@@ -4,7 +4,7 @@ import SkillItem from "./SkillItem";
 const skillData = [
   {
     id: 1,
-    title: "Magix Vegas Pro & Vegas Creative Suite",
+    title: "Magix Vegas Creative Suite",
     percentage: "100%",
   },
   {
@@ -24,7 +24,7 @@ const skillData = [
   },
   {
     id: 5,
-    title: "TDD, Heroku & Firebase Deployment",
+    title: "Heroku & Firebase Deployment",
     percentage: "90%",
   },
   {
@@ -49,7 +49,7 @@ const skillData = [
   },
   {
     id: 10,
-    title: "MongoDB, Realtime Database, Trello",
+    title: "MongoDB, Realtime Database",
     percentage: "60%",
   },
 ];

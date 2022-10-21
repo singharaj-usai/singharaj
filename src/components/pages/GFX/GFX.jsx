@@ -10,15 +10,13 @@ const gfxdata = [
     id: 1,
     image: image1,
     title: "YouTube Clickbait Banner Template",
-    description:
-      "A JavaScript code quiz using the default browser's API.",
+    description: "A JavaScript code quiz using the default browser's API.",
   },
   {
     id: 2,
     image: image2,
     title: "MadCity Wallpaper",
-    description:
-      "A Progressive Web App text editor that runs on the browser and works offline.",
+    description: "A Progressive Web App text editor that runs on the browser and works offline.",
   },
  
 ];

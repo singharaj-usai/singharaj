@@ -6,11 +6,9 @@ const Footer = () => {
       <div className="container px-4">
         <p className="text-sm text-gray-400 text-center">
           Designed and Developed by
-          <a
-            className="text-blue-600"
-            href="https://github.com/singharaj-usai"
-            rel="nofollow"
-          >
+          <a className="text-blue-600" 
+          href="https://github.com/singharaj-usai" 
+          rel="nofollow">
             {" "}
             Singharaj Usai
           </a>

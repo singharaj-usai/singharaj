@@ -72,12 +72,7 @@ const Navbar = () => {
     const { title, to } = props.el;
     return (
       <li className="m-3 lg:mx-5">
-        <NavLink
-          to={to}
-          activeClassName="text-blue-600"
-          className="text-grey-500 pl-1 hover:text-blue-300 transition ease-out duration-200">
-          {title}
-        </NavLink>
+        <NavLink to={to} activeClassName="text-blue-600" className="text-grey-500 pl-1 hover:text-blue-300 transition ease-out duration-200">{title}</NavLink>
       </li>
     );
   };
