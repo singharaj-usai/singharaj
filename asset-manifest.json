@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portyfolio/static/css/main.d19d89d5.chunk.css",
+    "main.js": "/Portyfolio/static/js/main.2f8a8ca0.chunk.js",
+    "main.js.map": "/Portyfolio/static/js/main.2f8a8ca0.chunk.js.map",
+    "runtime-main.js": "/Portyfolio/static/js/runtime-main.2cfada4e.js",
+    "runtime-main.js.map": "/Portyfolio/static/js/runtime-main.2cfada4e.js.map",
+    "static/js/2.3f7153d5.chunk.js": "/Portyfolio/static/js/2.3f7153d5.chunk.js",
+    "static/js/2.3f7153d5.chunk.js.map": "/Portyfolio/static/js/2.3f7153d5.chunk.js.map",
+    "static/js/3.2a9d7599.chunk.js": "/Portyfolio/static/js/3.2a9d7599.chunk.js",
+    "static/js/3.2a9d7599.chunk.js.map": "/Portyfolio/static/js/3.2a9d7599.chunk.js.map",
+    "index.html": "/Portyfolio/index.html",
+    "static/css/main.d19d89d5.chunk.css.map": "/Portyfolio/static/css/main.d19d89d5.chunk.css.map",
+    "static/js/2.3f7153d5.chunk.js.LICENSE.txt": "/Portyfolio/static/js/2.3f7153d5.chunk.js.LICENSE.txt",
+    "static/media/Banner1.73b7a598.png": "/Portyfolio/static/media/Banner1.73b7a598.png",
+    "static/media/MadCity.030ebd37.png": "/Portyfolio/static/media/MadCity.030ebd37.png",
+    "static/media/R.4a627c33.jfif": "/Portyfolio/static/media/R.4a627c33.jfif",
+    "static/media/Roblox Background.e1b33f65.jfif": "/Portyfolio/static/media/Roblox Background.e1b33f65.jfif",
+    "static/media/builderman.535327fa.png": "/Portyfolio/static/media/builderman.535327fa.png",
+    "static/media/express note taker.e228f86d.png": "/Portyfolio/static/media/express note taker.e228f86d.png",
+    "static/media/js calculator.047658a2.png": "/Portyfolio/static/media/js calculator.047658a2.png",
+    "static/media/js password gen.f8dd2403.png": "/Portyfolio/static/media/js password gen.f8dd2403.png",
+    "static/media/node readme generator.2cca4f6d.jpg": "/Portyfolio/static/media/node readme generator.2cca4f6d.jpg",
+    "static/media/noob.9733bbf8.png": "/Portyfolio/static/media/noob.9733bbf8.png",
+    "static/media/pwa text editor.a0cd8a81.png": "/Portyfolio/static/media/pwa text editor.a0cd8a81.png",
+    "static/media/web api code quiz.da848cfb.png": "/Portyfolio/static/media/web api code quiz.da848cfb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cfada4e.js",
+    "static/js/2.3f7153d5.chunk.js",
+    "static/css/main.d19d89d5.chunk.css",
+    "static/js/main.2f8a8ca0.chunk.js"
+  ]
+}
