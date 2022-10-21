@@ -25,9 +25,9 @@
 
 ## Links
 
-Live Site URL:  
+Live Site URL: https://singharaj-usai.github.io/singharaj/
 
-Repository URL: https://github.com/singharaj-usai/New-React-Portfolio
+Repository URL: https://github.com/singharaj-usai/singharaj
 
 ## Made With
 
