@@ -5,22 +5,22 @@ import picture from '../../../images/noob.png';
 const socials = [
   {
     id: 1,
-    icon: <FaGithub />,
+    icon: <FaGithub/>,
     link: 'https://github.com/singharaj-usai',
   },
   {
     id: 2,
-    icon: <FaLinkedinIn />,
+    icon: <FaLinkedinIn/>,
     link: 'https://www.linkedin.com/in/singharaj-usai',
   },
   {
     id: 3,
-    icon: <FaTwitter />,
+    icon: <FaTwitter/>,
     link: 'https://twitter.com/OMrbobbilly',
   },
   {
     id: 4,
-    icon: <FaDeviantart />,
+    icon: <FaDeviantart/>,
     link: 'https://deviantart.com/realmrbobbilly',
   },
 ]
@@ -32,7 +32,7 @@ const Card = () => {
         <img
           src={picture}
           alt="singharaj"
-          className="w-full" />
+          className="w-full"/>
       </div>
       <div className="text-center">
         <h1 className="text-xl text-gray-800 font-bold mb-1">
@@ -53,7 +53,7 @@ const Card = () => {
 
         <ul className="flex flex-wrap justify-center">
           {socials.map((social, id) => (
-            <SocialIcon social={social} key={id} />
+            <SocialIcon social={social} key={id}/>
           ))}
         </ul>
       </div>
@@ -66,8 +66,7 @@ const SocialIcon = (props) => {
   const { icon, link } = props.social;
   return (
     <li className='m-2'>
-      <a href={link}
-        className='w-8 h-8 bg-blue-100 rounded text-blue-800 flex items-center justify-center hover:text-white hover:bg-blue-600 transition ease-out duration-200'>
+      <a href={link} className='w-8 h-8 bg-blue-100 rounded text-blue-800 flex items-center justify-center hover:text-white hover:bg-blue-600 transition ease-out duration-200'>
         {icon}
       </a>
     </li>

@@ -12,7 +12,7 @@ function App() {
           <div className="w-full lg:w-1/3 ">
             <Card/>
           </div>
-          <div className="w-full lg:w-2/3 ">
+          <div className="w-full lg:w-2/3">
             <Navbar/>
           </div>
         </div>
