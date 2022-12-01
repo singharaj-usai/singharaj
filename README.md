@@ -1,8 +1,7 @@
 # React Portfolio
 
 ## Index
-- [React Portfolio](#react-portfolio)
-  - [Index](#index)
+
 - [Overview](#overview)
   - [Summary](#summary)
   - [Screenshot](#screenshot)
