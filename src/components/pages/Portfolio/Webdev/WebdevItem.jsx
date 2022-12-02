@@ -5,7 +5,7 @@ const WebdevItem = (props) => {
   const { image, title, link, description } = props.portfolio;
   return (
     <div className="w-full lg:w-1/2">
-      <div className="my-4 md:mx-4 shadow p-6 rounded-md bg-white group hover:shadow-md">
+      <div className="my-2 md:mx-4 shadow p-6 rounded-md bg-white group hover:shadow-md">
         <div className="relative mb-6 w-full h-full bg-blue-200 rounded-md overflow-hidden">
           <img src={image} alt="coverImage" className="w-full h-full object-cover object-center"/>
           <div className="absolute opacity-0 transition duration-200 bg-blue-100 bg-opacity-80 w-full flex items-center justify-center h-full left-0 top-0 group-hover:opacity-100 group-hover:visible">

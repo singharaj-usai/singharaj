@@ -1,10 +1,10 @@
 import React from "react";
-import image1 from "../../../images/web api code quiz.png";
-import image2 from "../../../images/pwa text editor.png";
-import image3 from "../../../images/express note taker.png";
-import image4 from "../../../images/node readme generator.jpg";
-import image5 from "../../../images/js calculator.png";
-import image6 from "../../../images/js password gen.png";
+import image1 from "../../../../images/web api code quiz.png";
+import image2 from "../../../../images/pwa text editor.png";
+import image3 from "../../../../images/express note taker.png";
+import image4 from "../../../../images/node readme generator.jpg";
+import image5 from "../../../../images/js calculator.png";
+import image6 from "../../../../images/js password gen.png";
 import WebdevItem from "./WebdevItem";
 
 const portfolioData = [
@@ -56,7 +56,7 @@ const portfolioData = [
 const Portfolio = () => {
   return (
     <section className="pb-10">
-      <div className="flex justify-center flex-wrap md:px-4">
+      <div className="flex justify-center flex-wrap">
         {portfolioData.map((portfolio, id) => (
           <WebdevItem portfolio={portfolio} key={id} />
         ))}
