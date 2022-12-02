@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/singharaj/static/css/main.d19d89d5.chunk.css",
-    "main.js": "/singharaj/static/js/main.2f8a8ca0.chunk.js",
-    "main.js.map": "/singharaj/static/js/main.2f8a8ca0.chunk.js.map",
-    "runtime-main.js": "/singharaj/static/js/runtime-main.29a0dc97.js",
-    "runtime-main.js.map": "/singharaj/static/js/runtime-main.29a0dc97.js.map",
-    "static/js/2.3f7153d5.chunk.js": "/singharaj/static/js/2.3f7153d5.chunk.js",
-    "static/js/2.3f7153d5.chunk.js.map": "/singharaj/static/js/2.3f7153d5.chunk.js.map",
-    "static/js/3.2a9d7599.chunk.js": "/singharaj/static/js/3.2a9d7599.chunk.js",
-    "static/js/3.2a9d7599.chunk.js.map": "/singharaj/static/js/3.2a9d7599.chunk.js.map",
+    "main.css": "/singharaj/static/css/main.eca20391.chunk.css",
+    "main.js": "/singharaj/static/js/main.2fedcae1.chunk.js",
+    "main.js.map": "/singharaj/static/js/main.2fedcae1.chunk.js.map",
+    "runtime-main.js": "/singharaj/static/js/runtime-main.c01d7eb5.js",
+    "runtime-main.js.map": "/singharaj/static/js/runtime-main.c01d7eb5.js.map",
+    "static/css/2.32b1dd04.chunk.css": "/singharaj/static/css/2.32b1dd04.chunk.css",
+    "static/js/2.cc8e358e.chunk.js": "/singharaj/static/js/2.cc8e358e.chunk.js",
+    "static/js/2.cc8e358e.chunk.js.map": "/singharaj/static/js/2.cc8e358e.chunk.js.map",
+    "static/js/3.9abd795e.chunk.js": "/singharaj/static/js/3.9abd795e.chunk.js",
+    "static/js/3.9abd795e.chunk.js.map": "/singharaj/static/js/3.9abd795e.chunk.js.map",
     "index.html": "/singharaj/index.html",
-    "static/css/main.d19d89d5.chunk.css.map": "/singharaj/static/css/main.d19d89d5.chunk.css.map",
-    "static/js/2.3f7153d5.chunk.js.LICENSE.txt": "/singharaj/static/js/2.3f7153d5.chunk.js.LICENSE.txt",
+    "static/css/2.32b1dd04.chunk.css.map": "/singharaj/static/css/2.32b1dd04.chunk.css.map",
+    "static/css/main.eca20391.chunk.css.map": "/singharaj/static/css/main.eca20391.chunk.css.map",
+    "static/js/2.cc8e358e.chunk.js.LICENSE.txt": "/singharaj/static/js/2.cc8e358e.chunk.js.LICENSE.txt",
     "static/media/Banner1.73b7a598.png": "/singharaj/static/media/Banner1.73b7a598.png",
     "static/media/MadCity.030ebd37.png": "/singharaj/static/media/MadCity.030ebd37.png",
     "static/media/R.4a627c33.jfif": "/singharaj/static/media/R.4a627c33.jfif",
-    "static/media/Roblox Background.e1b33f65.jfif": "/singharaj/static/media/Roblox Background.e1b33f65.jfif",
-    "static/media/builderman.535327fa.png": "/singharaj/static/media/builderman.535327fa.png",
+    "static/media/Singharaj_Usai_Resume.316ba02e.pdf": "/singharaj/static/media/Singharaj_Usai_Resume.316ba02e.pdf",
     "static/media/express note taker.e228f86d.png": "/singharaj/static/media/express note taker.e228f86d.png",
     "static/media/js calculator.047658a2.png": "/singharaj/static/media/js calculator.047658a2.png",
     "static/media/js password gen.f8dd2403.png": "/singharaj/static/media/js password gen.f8dd2403.png",
@@ -26,9 +27,10 @@
     "static/media/web api code quiz.da848cfb.png": "/singharaj/static/media/web api code quiz.da848cfb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.29a0dc97.js",
-    "static/js/2.3f7153d5.chunk.js",
-    "static/css/main.d19d89d5.chunk.css",
-    "static/js/main.2f8a8ca0.chunk.js"
+    "static/js/runtime-main.c01d7eb5.js",
+    "static/css/2.32b1dd04.chunk.css",
+    "static/js/2.cc8e358e.chunk.js",
+    "static/css/main.eca20391.chunk.css",
+    "static/js/main.2fedcae1.chunk.js"
   ]
 }
